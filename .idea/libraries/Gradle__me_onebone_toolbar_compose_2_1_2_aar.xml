@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: me.onebone:toolbar-compose:2.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/14f54c6a7503f332d0e77e218222f838/transformed/jetified-toolbar-compose-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/14f54c6a7503f332d0e77e218222f838/transformed/jetified-toolbar-compose-2.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/14f54c6a7503f332d0e77e218222f838/transformed/jetified-toolbar-compose-2.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.onebone/toolbar-compose/2.1.2/aba5b8190ff0d0c256f61b9efb8972f768954a7a/toolbar-compose-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
